@@ -1,0 +1,980 @@
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:01:01 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [0] in [-1] iterations
+EXPECTED SOLUTION:
+x = [2.7314331054687497] in [13] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:02:07 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Falsi] method.
+x = [0] in [-1] iterations
+EXPECTED SOLUTION:
+x = [2.73138362228866] in [5] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:02:12 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Secant] method.
+x = [0] in [-1] iterations
+EXPECTED SOLUTION:
+x = [2.7313983342760633] in [4] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:02:13 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Tangent] method.
+x = [0] in [-1] iterations
+EXPECTED SOLUTION:
+x = [2.7314037035051872] in [3] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:02:14 PM
+==========
++-==================================================-+
+|              0 of 4 tasks is/are OK.               |
+|                Your grade is: 2.00                 |
+|   UNFORTUNATELY! You have to correct some tasks.   |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:17:26 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [2.731403655075817] in [1025] iterations
+EXPECTED SOLUTION:
+x = [2.7314331054687497] in [13] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:17:42 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Falsi] method.
+x = [0] in [-1] iterations
+EXPECTED SOLUTION:
+x = [2.73138362228866] in [5] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:21:34 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [2.65] in [0] iterations
+EXPECTED SOLUTION:
+x = [2.7314331054687497] in [13] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:23:11 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [2.7314331054687497] in [13] iterations
+EXPECTED SOLUTION:
+x = [2.7314331054687497] in [13] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:23:13 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Falsi] method.
+x = [0] in [-1] iterations
+EXPECTED SOLUTION:
+x = [2.73138362228866] in [5] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:23:13 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Secant] method.
+x = [0] in [-1] iterations
+EXPECTED SOLUTION:
+x = [2.7313983342760633] in [4] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:23:13 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Tangent] method.
+x = [0] in [-1] iterations
+EXPECTED SOLUTION:
+x = [2.7314037035051872] in [3] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::48ec:6e4e:ddf1:f823%4
+10/20/2022 1:23:14 PM
+==========
++-==================================================-+
+|              1 of 4 tasks is/are OK.               |
+|                Your grade is: 3.00                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/27/2022 11:40:43 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [2.7314331054687497] in [13] iterations
+EXPECTED SOLUTION:
+x = [2.7314331054687497] in [13] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/27/2022 11:40:56 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Falsi] method.
+x = [2.73138362228866] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.73138362228866] in [5] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/27/2022 11:41:01 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Secant] method.
+x = [2.731403782137669] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.7313983342760633] in [4] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/27/2022 11:41:02 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Tangent] method.
+x = [0] in [-1] iterations
+EXPECTED SOLUTION:
+x = [2.7314037035051872] in [3] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/27/2022 11:41:03 PM
+==========
++-==================================================-+
+|              3 of 4 tasks is/are OK.               |
+|                Your grade is: 4.50                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/27/2022 11:55:59 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [2.7314331054687497] in [13] iterations
+EXPECTED SOLUTION:
+x = [2.7314331054687497] in [13] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/27/2022 11:56:01 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Falsi] method.
+x = [2.73138362228866] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.73138362228866] in [5] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/27/2022 11:56:02 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Secant] method.
+x = [2.731403782137669] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.7313983342760633] in [4] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/27/2022 11:56:02 PM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Tangent] method.
+x = [2.7314037035051872] in [3] iterations
+EXPECTED SOLUTION:
+x = [2.7314037035051872] in [3] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/27/2022 11:56:02 PM
+==========
++-==================================================-+
+|              4 of 4 tasks is/are OK.               |
+|                Your grade is: 5.00                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:07:02 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [2.7314331054687497] in [13] iterations
+EXPECTED SOLUTION:
+x = [2.7314331054687497] in [13] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:07:04 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Falsi] method.
+x = [2.73138362228866] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.73138362228866] in [5] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:07:04 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Secant] method.
+x = [2.731403782137669] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.7313983342760633] in [4] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:07:05 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Tangent] method.
+x = [2.7314037035051872] in [3] iterations
+EXPECTED SOLUTION:
+x = [2.7314037035051872] in [3] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:07:17 AM
+==========
++-==================================================-+
+|              4 of 4 tasks is/are OK.               |
+|                Your grade is: 5.00                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:08:08 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [2.7314331054687497] in [13] iterations
+EXPECTED SOLUTION:
+x = [2.7314331054687497] in [13] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:08:10 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Falsi] method.
+x = [2.73138362228866] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.73138362228866] in [5] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:08:11 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Secant] method.
+x = [2.731403782137669] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.7313983342760633] in [4] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:08:11 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Tangent] method.
+x = [2.7314037035051872] in [3] iterations
+EXPECTED SOLUTION:
+x = [2.7314037035051872] in [3] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:08:12 AM
+==========
++-==================================================-+
+|              4 of 4 tasks is/are OK.               |
+|                Your grade is: 5.00                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:15:15 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [2.7314331054687497] in [13] iterations
+EXPECTED SOLUTION:
+x = [2.7314331054687497] in [13] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:15:15 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Falsi] method.
+x = [2.73138362228866] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.73138362228866] in [5] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:15:16 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Secant] method.
+x = [2.731403782137669] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.7313983342760633] in [4] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:15:16 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Tangent] method.
+x = [2.7314037035051872] in [3] iterations
+EXPECTED SOLUTION:
+x = [2.7314037035051872] in [3] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 12:15:17 AM
+==========
++-==================================================-+
+|              4 of 4 tasks is/are OK.               |
+|                Your grade is: 5.00                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:00:47 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Bisection] method.
+x = [-1.567413330078125] in [15] iterations
+EXPECTED SOLUTION:
+x = [-1.567413330078125] in [15] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:00:50 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Falsi] method.
+x = [-1.567377889327427] in [6] iterations
+EXPECTED SOLUTION:
+x = [-1.567377889327427] in [6] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:00:52 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Secant] method.
+x = [-1.5673869960853744] in [5] iterations
+EXPECTED SOLUTION:
+x = [-1.567365449323896] in [7] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:00:58 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Tangent] method.
+x = [-1.5673912327274186] in [3] iterations
+EXPECTED SOLUTION:
+x = [-1.5673912327274186] in [3] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:00:59 AM
+==========
++-==================================================-+
+|              3 of 4 tasks is/are OK.               |
+|                Your grade is: 4.50                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:08:48 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Bisection] method.
+x = [-1.567413330078125] in [15] iterations
+EXPECTED SOLUTION:
+x = [-1.567413330078125] in [15] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:08:49 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Falsi] method.
+x = [-1.567377889327427] in [6] iterations
+EXPECTED SOLUTION:
+x = [-1.567377889327427] in [6] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:08:49 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Secant] method.
+x = [-1.5673869960853744] in [5] iterations
+EXPECTED SOLUTION:
+x = [-1.567365449323896] in [7] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:15:16 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Bisection] method.
+x = [-1.567413330078125] in [15] iterations
+EXPECTED SOLUTION:
+x = [-1.567413330078125] in [15] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:15:19 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Falsi] method.
+x = [-1.567377889327427] in [6] iterations
+EXPECTED SOLUTION:
+x = [-1.567377889327427] in [6] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:15:19 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Secant] method.
+x = [-1.567365449323896] in [7] iterations
+EXPECTED SOLUTION:
+x = [-1.567365449323896] in [7] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:15:24 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Tangent] method.
+x = [-1.5673912327274186] in [3] iterations
+EXPECTED SOLUTION:
+x = [-1.5673912327274186] in [3] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:15:24 AM
+==========
++-==================================================-+
+|              4 of 4 tasks is/are OK.               |
+|                Your grade is: 5.00                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:17:46 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Bisection] method.
+x = [-1.567413330078125] in [15] iterations
+EXPECTED SOLUTION:
+x = [-1.567413330078125] in [15] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:17:48 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Falsi] method.
+x = [-1.567377889327427] in [6] iterations
+EXPECTED SOLUTION:
+x = [-1.567377889327427] in [6] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:17:48 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Secant] method.
+x = [-1.567365449323896] in [7] iterations
+EXPECTED SOLUTION:
+x = [-1.567365449323896] in [7] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:17:53 AM
+==========
+Solving the equation 
+f(x) = 1.000 * exp( 0.500 * x ) + -1.000 * x^2 + 2.000 = 0 
+using the [Tangent] method.
+x = [-1.5673912327274186] in [3] iterations
+EXPECTED SOLUTION:
+x = [-1.5673912327274186] in [3] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:17:54 AM
+==========
++-==================================================-+
+|              4 of 4 tasks is/are OK.               |
+|                Your grade is: 5.00                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:20:26 AM
+==========
+Solving the equation 
+f(x) = 1.000 * x^2 + log( x ) + -2.000 = 0 
+using the [Bisection] method.
+x = [0.8529541015625001] in [14] iterations
+EXPECTED SOLUTION:
+x = [0.8530273437500001] in [12] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:20:34 AM
+==========
+Solving the equation 
+f(x) = 1.000 * x^2 + log( x ) + -2.000 = 0 
+using the [Falsi] method.
+x = [0.8529529610552886] in [5] iterations
+EXPECTED SOLUTION:
+x = [0.8529529610552886] in [5] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:20:35 AM
+==========
+Solving the equation 
+f(x) = 1.000 * x^2 + log( x ) + -2.000 = 0 
+using the [Secant] method.
+x = [0.8529458344141668] in [4] iterations
+EXPECTED SOLUTION:
+x = [0.8529458344141668] in [4] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:20:36 AM
+==========
+Solving the equation 
+f(x) = 1.000 * x^2 + log( x ) + -2.000 = 0 
+using the [Tangent] method.
+x = [0.8529445139881031] in [3] iterations
+EXPECTED SOLUTION:
+x = [0.8529445139881031] in [3] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:20:37 AM
+==========
++-==================================================-+
+|              3 of 4 tasks is/are OK.               |
+|                Your grade is: 4.50                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:22:42 AM
+==========
+Solving the equation 
+f(x) = 4.000 * cos( 1.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [1.4270532226562498] in [14] iterations
+EXPECTED SOLUTION:
+x = [1.4270532226562498] in [14] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:22:44 AM
+==========
+Solving the equation 
+f(x) = 4.000 * cos( 1.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Falsi] method.
+x = [1.4270691409748406] in [4] iterations
+EXPECTED SOLUTION:
+x = [1.4270691409748406] in [4] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:22:46 AM
+==========
+Solving the equation 
+f(x) = 4.000 * cos( 1.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Secant] method.
+x = [1.4270691409748406] in [4] iterations
+EXPECTED SOLUTION:
+x = [1.4270691409748406] in [4] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:22:47 AM
+==========
+Solving the equation 
+f(x) = 4.000 * cos( 1.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Tangent] method.
+x = [NaN] in [1] iterations
+EXPECTED SOLUTION:
+x = [4.146081364167628] in [36] iterations
+Your solution IS NOT acceptable!
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:22:57 AM
+==========
++-==================================================-+
+|              3 of 4 tasks is/are OK.               |
+|                Your grade is: 4.50                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:25:03 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Bisection] method.
+x = [2.7314331054687497] in [13] iterations
+EXPECTED SOLUTION:
+x = [2.7314331054687497] in [13] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:25:05 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Falsi] method.
+x = [2.73138362228866] in [5] iterations
+EXPECTED SOLUTION:
+x = [2.73138362228866] in [5] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:25:05 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Secant] method.
+x = [2.7313983342760633] in [4] iterations
+EXPECTED SOLUTION:
+x = [2.7313983342760633] in [4] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:25:08 AM
+==========
+Solving the equation 
+f(x) = 1.000 * sin( 2.000 * x ) + 1.000 * x + -2.000 = 0 
+using the [Tangent] method.
+x = [2.7314037035051872] in [3] iterations
+EXPECTED SOLUTION:
+x = [2.7314037035051872] in [3] iterations
+Your solution IS acceptable.
+
+==========
+DESKTOP-RCF3TF6
+DESKTOP-RCF3TF6
+fe80::dabd:cb24:6b44:cf0b%3
+10/28/2022 9:25:08 AM
+==========
++-==================================================-+
+|              4 of 4 tasks is/are OK.               |
+|                Your grade is: 5.00                 |
+| CONGRATULATIONS! You got credit from the exercise. |
+|        Show this message to the instructor.        |
++-==================================================-+
+

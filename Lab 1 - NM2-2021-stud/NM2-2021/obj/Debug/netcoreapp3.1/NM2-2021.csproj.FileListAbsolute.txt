@@ -1,0 +1,28 @@
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.exe
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.deps.json
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.runtimeconfig.json
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.runtimeconfig.dev.json
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.dll
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.pdb
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.csproj.AssemblyReference.cache
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.AssemblyInfoInputs.cache
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.AssemblyInfo.cs
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.dll
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.pdb
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.genruntimeconfig.cache
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.exe
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.deps.json
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.runtimeconfig.json
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.runtimeconfig.dev.json
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.dll
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\bin\Debug\netcoreapp3.1\NM2-2021.pdb
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.csproj.AssemblyReference.cache
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.AssemblyInfoInputs.cache
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.AssemblyInfo.cs
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.dll
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.pdb
+C:\Users\Szymon\OneDrive\Dokumenty\Pulpit\NM\Lab 1 - NM2-2021-stud\NM2-2021\obj\Debug\netcoreapp3.1\NM2-2021.genruntimeconfig.cache
